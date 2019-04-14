@@ -1,0 +1,23 @@
+{
+  "name": "webrtc",
+  "version": "1.0.0",
+  "description": "A POC on WebRTC to demonstrate Real Time Communications using P2P Connection.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanjaymahto/WebRTC-POC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanjaymahto/WebRTC-POC/issues"
+  },
+  "homepage": "https://github.com/sanjaymahto/WebRTC-POC#readme",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
